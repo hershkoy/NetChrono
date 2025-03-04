@@ -1,5 +1,5 @@
 {
-  "name": "DevToolsNetTimely",
+  "name": "NetChrono",
   "version": "1.0",
   "description": "Displays network requests with their start times relative to page load.",
   "manifest_version": 3,
