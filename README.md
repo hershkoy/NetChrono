@@ -2,7 +2,7 @@
 
 A Chrome DevTools extension that provides enhanced network request timing analysis and filtering capabilities.
 
-![NetChrono Screenshot](netChrono_custom_devtools_tab.jpeg)
+![NetChrono Screenshot](docs/netChrono_custom_devtools_tab.jpeg)
 
 ## Features
 
